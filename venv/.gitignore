@@ -1,0 +1,7 @@
+# Ignore the virtual environment directory
+venv/
+__pycache__/
+Include/
+Lib/
+Scripts/
+share/
