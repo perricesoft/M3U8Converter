@@ -1,0 +1,19 @@
+2024-06-24 03:10:18,567:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 03:22:20,421:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 03:22:27,805:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 03:28:55,680:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 03:29:20,380:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 03:30:15,385:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 03:30:27,940:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 03:33:07,973:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 03:33:36,752:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 03:36:01,203:ERROR:Exception during transcription: 
+2024-06-24 06:47:33,488:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 19:10:48,624:ERROR:Error converting file C:/Users/percy/Downloads/ssstik.io_1677007729282.wav to WAV: Command '['ffmpeg', '-y', '-i', 'C:/Users/percy/Downloads/ssstik.io_1677007729282.wav', 'C:/Users/percy/Downloads/ssstik.io_1677007729282.wav']' returned non-zero exit status 4294967274.
+2024-06-24 19:12:45,682:ERROR:Exception during transcription: 
+2024-06-24 19:25:01,940:ERROR:Exception during transcription: 
+2024-06-24 19:28:08,222:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 19:28:30,584:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 19:29:09,346:ERROR:Exception during transcription: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2024-06-24 19:29:36,998:ERROR:Exception during transcription: 
+2024-06-24 19:29:52,964:ERROR:Exception during transcription: 
